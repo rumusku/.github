@@ -5,7 +5,7 @@
   
 
 
-  <a href="https://www.rumusku.biz.id" target="_blank">
+  <a href="https://www.rumusku.id" target="_blank">
     <img src="https://img.shields.io/badge/Kunjungi_Website-www.rumusku.biz.id-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <img src="https://img.shields.io/badge/Status-Aktif_&_Terus_Dikembangkan-47C83E?style=for-the-badge" alt="Status" />
@@ -32,9 +32,6 @@ Pendidikan yang baik adalah hasil dari kolaborasi. Baik Anda seorang pengembang,
 <div align="center">
   <a href="https://github.com/rumusku/rumusku/issues">
     <img src="https://img.shields.io/badge/Laporkan_Bug-Buka_Issue-E34F26?style=for-the-badge&logo=github&logoColor=white" alt="Buka Issue" />
-  </a>
-  <a href="mailto:support@rumusku.biz.id">
-    <img src="https://img.shields.io/badge/Hubungi_Kami-Kirim_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
